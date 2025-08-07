@@ -1,0 +1,27 @@
+{
+  "name": "weather-analytics-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.15",
+    "chart.js": "4.4.0",
+    "next": "14.2.3",
+    "node-fetch": "^2.7.0",
+    "postcss": "8.4.31",
+    "react": "18.2.0",
+    "react-chartjs-2": "5.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^5.5.0",
+    "tailwindcss": "3.4.1"
+  },
+  "devDependencies": {
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.2.3"
+  }
+}
